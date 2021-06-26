@@ -12,7 +12,7 @@
 7. Deployment
 8. Editing
 
-### 2. Resume Page
+### 2. Resume File
 1. Template
 2. Estrutura
 3. Conteúdo
