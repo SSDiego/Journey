@@ -1,5 +1,5 @@
 # Journey
-### Resume Page
+### 1. Resume Page
 1. Template
 2. Estrutura
 3. Conteúdo
@@ -8,3 +8,10 @@
 6. Domain authentication
 7. Deployment
 8. Editing
+
+### 2. Resume Page
+1. Template
+2. Estrutura
+3. Conteúdo
+4. Githubpages Deplayment
+5. Editin
