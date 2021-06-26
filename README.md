@@ -16,5 +16,5 @@
 1. Template
 2. Estrutura
 3. Conteúdo
-4. Githubpages Deplayment
-5. Editin
+4. Githubpages Deployment
+5. Editing
