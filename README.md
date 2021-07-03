@@ -2,6 +2,8 @@
 
 ## Resume Project
 
+Etapas do projeto.
+
 ### 1. Resume Page
 1. Template
 2. Estrutura
