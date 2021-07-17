@@ -1,2 +1,3 @@
 # Python-Fundamentals
-Praticando fundamentos básicos de python
+Praticando fundamentos de python
+Carga Total 5h em 2 dias
